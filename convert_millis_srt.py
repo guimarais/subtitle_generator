@@ -1,6 +1,8 @@
 """
 Function to convert miliseconds into a string format usable in srt subtitle files
 """
+import numpy as np
+
 
 def convert_millis_srt(millis):
     """

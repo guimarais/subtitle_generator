@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Audio chunks dir, for project file handling
+./audio-chunks/
+
+# Audio, video, and subtitle files
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.WAV
+*.srt
